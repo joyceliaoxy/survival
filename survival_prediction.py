@@ -1,3 +1,5 @@
+# exploring features in the subset of Titanic data, and deploying decision tree to predict the survival rate
+
 %matplotlib inline
 import os
 import pandas as pd
